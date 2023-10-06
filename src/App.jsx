@@ -36,7 +36,7 @@ function App() {
           <div className='text-close'>
           <p>Login here</p>
           <div className="close-div">
-          <button className="close-btn" onClick={closeHandler} >X</button>
+          <button className="close-btn" onClick={closeHandler} > &#x2715; </button>
           </div>
           </div>
            <form action="">
